@@ -1,0 +1,10 @@
+---
+title: Text Summarizer
+emoji: 🌖
+license: creativeml-openrail-m
+sdk: gradio
+colorFrom: purple
+colorTo: purple
+pinned: true
+short_description: Summarize Texts
+---
